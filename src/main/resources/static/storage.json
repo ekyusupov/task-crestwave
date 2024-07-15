@@ -1,0 +1,8 @@
+{ "record":2, 
+"selected":"name2",
+"data": [ {"id":1, "name":"name1", "email":"test@yandex.ru", "phone":"+71233214567", "description":"some text", "end":true},
+ {"id":2, "name":"name2", "email":"test1@yandex.ru", "phone":"+79998887766", "description":"another text", "end":true},
+  {"id":3, "name":"name1", "email":"test2@yandex.ru", "phone":"+71233234567", "description":"some text", "end":true},
+  {"id":4, "name":"name3", "email":"test3@yandex.ru", "phone":"+71233235567", "description":"some text", "end":true},
+  {"id":5, "name":"name4", "email":"test4@yandex.ru", "phone":"+71233237567", "description":"some text", "end":true},
+  {"id":6, "name":"name5", "email":"test5@yandex.ru", "phone":"+71233238567", "description":"some text", "end":true}] }
